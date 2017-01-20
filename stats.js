@@ -13,6 +13,8 @@ var parser = new UAParser();
 var userAgent = parser.getResult();
 var out = JSON.stringify(userAgent);
 
+console.log(userAgent);
+
 // Test
 var url = "localhost:3000"
 
