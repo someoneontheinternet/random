@@ -17,7 +17,7 @@ console.log(userAgent);
 
 // Test
 var url = "localhost:3000"
-
+/*
 $.ajax({
 	type: "POST",
 	url: url,
@@ -28,3 +28,4 @@ $.ajax({
 		alert(msg);
 	}
 });
+*/
